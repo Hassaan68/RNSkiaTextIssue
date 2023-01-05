@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RNSkiaTextIssue",
+    "slug": "RNSkiaTextIssue",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "RNSkiaTextIssue"
+}
