@@ -9,11 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@shopify/react-native-skia": "^0.1.169",
     "expo": "~47.0.9",
     "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-background-timer": "^2.4.1",
+    "react-native-element-timer": "^2.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"

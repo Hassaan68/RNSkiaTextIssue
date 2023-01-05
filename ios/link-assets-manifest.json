@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "af7058373acbcf383dd114b8f9bbfb9faafd79eb"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "01d319c533f62ea29f03b5df8adfd4d93d2d2a38"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "assets/fonts/Saira-Bold.ttf",
+      "sha1": "f9d258e5024e2ab53efb485f6904403bbea1873c"
+    },
+    {
+      "path": "assets/fonts/Saira-Medium.ttf",
+      "sha1": "fafffb259b88d3b14c797ad479c448e885eddb8a"
+    },
+    {
+      "path": "assets/fonts/Saira-Regular.ttf",
+      "sha1": "7dc9f312fbd3ac3f45450b3e919cd58952e2a63a"
+    },
+    {
+      "path": "assets/fonts/Saira-SemiBold.ttf",
+      "sha1": "70393d77e30a5c775150d7e2ec63d755a3c39f23"
+    }
+  ]
+}

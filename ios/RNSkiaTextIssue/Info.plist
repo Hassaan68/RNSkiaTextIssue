@@ -49,7 +49,17 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-  <key>UIStatusBarStyle</key>
-  <string>UIStatusBarStyleDefault</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleDefault</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Poppins-Bold.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>Poppins-SemiBold.ttf</string>
+		<string>Saira-Bold.ttf</string>
+		<string>Saira-Medium.ttf</string>
+		<string>Saira-Regular.ttf</string>
+		<string>Saira-SemiBold.ttf</string>
+	</array>
 </dict>
 </plist>
